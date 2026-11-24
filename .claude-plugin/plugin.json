@@ -1,0 +1,8 @@
+{
+  "name": "kit-multiagente",
+  "version": "0.1.0",
+  "description": "Para que varios agentes de IA (Claude Code, Codex, Cursor, DeepSeek) trabajen en la misma carpeta sin pisarse: reglas, mapa, bitácora compartida y una cola de cambios que el arquitecto revisa.",
+  "author": { "name": "Sebyrz" },
+  "license": "MIT",
+  "keywords": ["agents", "multi-agent", "agents-md", "claude-code", "codex", "cursor", "workflow"]
+}

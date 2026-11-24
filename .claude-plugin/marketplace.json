@@ -1,0 +1,12 @@
+{
+  "name": "kit-multiagente",
+  "owner": { "name": "Sebyrz" },
+  "metadata": { "description": "Kit multiagente: varios agentes de IA en la misma carpeta sin pisarse." },
+  "plugins": [
+    {
+      "name": "kit-multiagente",
+      "source": "./",
+      "description": "Reglas, mapa, bitácora compartida y cola de revisión para trabajar con varios agentes de IA en la misma carpeta."
+    }
+  ]
+}
